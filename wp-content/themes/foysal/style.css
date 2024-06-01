@@ -1,0 +1,21 @@
+/*
+Theme Name: Foysal
+Theme URI: https://fj.com
+Author: AuFoysaL
+Author URI: https://fj.com/themes
+Description: Today is 21 December 2023 .My  First theme develop . I try my best
+
+Version:20.23
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: twentythree
+Tags: one-column, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, rtl-language-support, sticky-post, threaded-comments, translation-ready, block-patterns
+
+*/
+
+h1{
+    color:rgb(187, 255, 0);
+}
+strong{
+    color: red;
+}
